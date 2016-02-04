@@ -7,12 +7,16 @@ body {
 }
 
 #header {
-  color: #f00;
+  color: #000;
   text-align: center;
 }
 
 div p {
-  color: #f00;
+  color: #000;
+  text-align: center;
+}
+
+#form {
   text-align: center;
 }
 
