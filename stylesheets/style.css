@@ -1,7 +1,18 @@
 body {
-  background: url(../images/background.jpg) no-repeat center center fixed;
+  background: url(../images/background-image.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
+
+#header {
+  color: #f00;
+  text-align: center;
+}
+
+div p {
+  color: #f00;
+  text-align: center;
+}
+
